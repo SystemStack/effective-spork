@@ -1,5 +1,9 @@
 {
   "private": true,
+  "scripts": {
+    "m": "yarn rw prisma migrate dev",
+    "g": "yarn rw g sdl"
+  },
   "workspaces": {
     "packages": [
       "api",

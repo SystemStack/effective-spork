@@ -1,12 +1,13 @@
+*.log
+*.db
 .idea
 .DS_Store
 .env
 .netlify
 .redwood
-dev.db
+.vscode/
 dist
 dist-babel
 node_modules
-yarn-error.log
 web/public/mockServiceWorker.js
-.vscode/
+api/db/migrations/??????????????_
